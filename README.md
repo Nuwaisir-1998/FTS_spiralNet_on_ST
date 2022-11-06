@@ -80,4 +80,3 @@ year = {2020}
 } 
 
 ```
-# FTS_spiralNet_on_ST
