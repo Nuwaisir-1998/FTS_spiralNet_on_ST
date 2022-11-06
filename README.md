@@ -1,8 +1,11 @@
+# Acknowledgement
+Main Github link: https://github.com/zhenglab/spiralnet
+
 # SpiralNet
 
 This repository provides the official PyTorch implementation of our paper "Spiral Generative Network for Image Extrapolation".
 
-Our paper can be found in https://link.springer.com/chapter/10.1007/978-3-030-58529-7_41.
+SpiralNet's paper can be found in https://link.springer.com/chapter/10.1007/978-3-030-58529-7_41.
 
 
 ## Prerequisites
