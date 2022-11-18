@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # dataset
-*.flist 
+# *.flist 
 
 
 # checkpoints
